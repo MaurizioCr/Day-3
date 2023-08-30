@@ -6,8 +6,12 @@
     font-family: serif;
     
 }
-body{
+.centro{
     width: 50vw;
+    margin: auto;
+}
+body{
+    
     margin: auto;
     
 }
